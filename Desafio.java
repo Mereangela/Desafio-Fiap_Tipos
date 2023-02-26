@@ -18,7 +18,7 @@ public class Desafio {
 		
 		System.out.println("Boa Noite, " + nome + "! Seu ano de nascimento é: " + nascimento);
 		
-		float anoNascimento = (float) 2024-nascimento;		
+		float anoNascimento = (float) 2030-nascimento;		
 
 		System.out.println("Sua idade é  " + anoNascimento);		
 		
